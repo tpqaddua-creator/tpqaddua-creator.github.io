@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.tpqaddua_creator.twa",
+      "sha256_cert_fingerprints": [
+        "D2:69:4D:60:09:91:54:B9:9C:81:58:9C:85:20:4B:BB:13:E9:60:54:55:97:C9:0D:72:EE:C4:B5:2B:20:33:41"
+      ]
+    }
+  }
+]
